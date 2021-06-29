@@ -66,7 +66,7 @@ You can view the project layout through the links below:
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-# :closed-book: License
+# :closed_book: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
